@@ -20,3 +20,4 @@ strcat(rep,s.rep);
 delete []str;
 return *this;
 }
+//这是一个简单的测试修改！（正常的修改）
